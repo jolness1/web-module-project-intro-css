@@ -1,57 +1,56 @@
-@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap');
-*{
-    border:1px solid black;
-    margin:1em;
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap");
+* {
+  border: 1px solid black;
+  margin: 1em;
 }
-body{
-    font-family: 'Roboto Mono', monospace;
-    letter-spacing: .01em;;
+body {
+  font-family: "Roboto Mono", monospace;
+  letter-spacing: 0.01em;
 }
 #info {
-    background-color:#DDB9A3;
-    width:35em;
-    text-align: center;
-    display: inline-block;
-
+  background-color: #ddb9a3;
+  width: 35em;
+  text-align: center;
+  display: inline-block;
 }
 
-#titleblock{
-    /* vertical-align: middle; */
-    margin-bottom: 2em;
-    width: 150%;
-    height: auto;
+#titleblock {
+  /* vertical-align: middle; */
+  margin-bottom: 2em;
+  width: 150%;
+  height: autos;
 }
-#head{
-    font-family: 'Chelsea Market', cursive;
-    display:inline-block;
-    /* width: 60%;
+#head {
+  font-family: "Chelsea Market", cursive;
+  display: inline-block;
+  /* width: 60%;
     height:10%; */
-    text-align: center;
-    line-height: 40px;
+  text-align: center;
+  line-height: 40px;
 }
 
 #wrap {
-    width:18em;
-    text-align: center;
-    margin: auto;
+  width: 18em;
+  text-align: center;
+  margin: auto;
 }
 
-img#titlepic{
-    display:inline-block;
-    border-radius: 50%;
-    height:auto;
-    width: 10%;
+img#titlepic {
+  display: inline-block;
+  border-radius: 50%;
+  height: auto;
+  width: 10%;
 }
 
 .plan {
-    background-color: #FF764E;
+  background-color: #ff764e;
 }
 
-.learn{
-    background-color: #5ED3EB;
+.learn {
+  background-color: #5ed3eb;
 }
-    
-.get{
-    background-color: #FFCD69;
+
+.get {
+  background-color: #ffcd69;
 }
