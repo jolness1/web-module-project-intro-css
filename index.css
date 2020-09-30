@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400&display=swap');
+*{
+    border:1px solid black;
+    margin:1em;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: .01em;;
+}
+#info {
+    background-color:#DDB9A3;
+    width:35em;
+    text-align: center;
+    display: inline-block;
+
+}
+
+#titleblock{
+    /* vertical-align: middle; */
+    margin-bottom: 2em;
+    width: 150%;
+    height: auto;
+}
+#head{
+    font-family: 'Chelsea Market', cursive;
+    display:inline-block;
+    /* width: 60%;
+    height:10%; */
+    text-align: center;
+    line-height: 40px;
+}
+
+#wrap {
+    width:18em;
+    text-align: center;
+    margin: auto;
+}
+
+img#titlepic{
+    display:inline-block;
+    border-radius: 50%;
+    height:auto;
+    width: 10%;
+}
+
+.plan {
+    background-color: #FF764E;
+}
+
+.learn{
+    background-color: #5ED3EB;
+}
+    
+.get{
+    background-color: #FFCD69;
+}
